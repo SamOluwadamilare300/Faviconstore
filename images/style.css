@@ -1179,7 +1179,7 @@ a.footer-link:is(:hover, :focus){color: var(--bittersweet);}
    .special-product .has-scrollbar >li {min-width: calc(33.33%-16.66px);}
    .special-banner .banner-title{--fs-4:2.4rem;}
 
-   .service-item{width: 270px;}
+   .service-item{width: 275px;}
 
    .service-card .card-icon{
     min-width: 70px;
@@ -1190,11 +1190,11 @@ a.footer-link:is(:hover, :focus){color: var(--bittersweet);}
    .service-card .card-title{--fs-6:2rem;}
 
    .insta-post{padding-block-end: 0;}
-   .insta-post-list .insta-post-item{min-width: 12.6%;}
+   .insta-post-list .insta-post-item{min-width: 12.5%;}
    .insta-post-list{padding-bottom: 0;}
 
    .footer-link-box{
-    grid-template-columns: 1fr 2fr 2fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 50px;
 
    }
