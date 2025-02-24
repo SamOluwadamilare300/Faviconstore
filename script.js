@@ -20,7 +20,7 @@ const goTopBtn = document.querySelector("[data-go-top]");
 window.addEventListener("scroll", function() {
     if (window.scrollY > 80) {
         header.classList.add("active");
-        goTopBtn.classList.add("active"); // You might want to add a class here instead of an empty string
+        goTopBtn.classList.add("active");
     } else {
         header.classList.remove("active");
         goTopBtn.classList.remove("active");
